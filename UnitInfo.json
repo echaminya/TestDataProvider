@@ -1,5 +1,6 @@
 {
   "UnitID": 12345,
   "name": "MyUnitName",
+  "Inventory": "WhiteSofa",
   "link": "localhost/Inventory"
 }

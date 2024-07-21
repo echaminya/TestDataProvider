@@ -1,9 +1,9 @@
 {
-  "UnitID": 12345,
+  "UnitID": 12345.0,
   "name": "MyUnitName",
   "Inventory": "WhiteSofa",
   "Inventorylink": "http://localhost/Inventory/WhiteSofa.pak",
-  "BorrowedUnitID": 6789,
+  "BorrowedUnitID": 6789.0,
   "Borrowedname": "BorrowedUnitName",
   "BorrowedInventory": "PinkSofa",
   "BorrowedInventorylink": "http://localhost/Inventory/PinkSofa.pak",

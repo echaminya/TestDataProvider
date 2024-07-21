@@ -1,5 +1,5 @@
 {
-  <!--"UnitId": 12345,-->
+  "UnitId": 123456,
   "name": "MyUnitName",
   "Inventory": "WhiteSofa",
   "Inventorylink": "http://localhost/Inventory/WhiteSofa.pak",

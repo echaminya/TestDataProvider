@@ -6,5 +6,5 @@
   "BorrowedUnitID": 6789,
   "Borrowedname": "BorrowedUnitName",
   "BorrowedInventory": "PinkSofa",
-  "BorrowedInventorylink": "http://localhost/Inventory/PinkSofa.pak",
+  "BorrowedInventorylink": "http://localhost/Inventory/PinkSofa.pak"
 }

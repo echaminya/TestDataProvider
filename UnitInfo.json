@@ -2,9 +2,9 @@
   "UnitID": 12345,
   "name": "MyUnitName",
   "Inventory": "WhiteSofa",
-  "Inventorylink": "http://localhost/Inventory/WhiteSofa.pak",
+  "Inventorylink": "https://neo-ats.sfo3.cdn.digitaloceanspaces.com/NeoworlderPatchingMacCDN/WhiteSofa.pak",
   "BorrowedUnitID": 6789,
   "Borrowedname": "BorrowedUnitName",
   "BorrowedInventory": "PinkSofa",
-  "BorrowedInventorylink": "http://localhost/Inventory/PinkSofa.pak"
+  "BorrowedInventorylink": "https://neo-ats.sfo3.cdn.digitaloceanspaces.com/NeoworlderPatchingMacCDN/PinkSofa.pak"
 }
